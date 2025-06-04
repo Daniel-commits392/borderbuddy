@@ -1,0 +1,176 @@
+body{
+    background-color: orangered;
+    color: white;
+}
+h1 .b{
+    font-size: 2em;
+    margin-bottom: -16px;
+    text-shadow: 10px 10px 20px rgba(92, 240, 55, 0.5);
+}
+.e{
+    color: gray;
+}
+h2{
+    font-size: 2em;
+    text-align :justify;
+    
+}
+img{
+    width: 250px;
+    height: auto;
+   border-radius: 8px;
+    border: 2px solid orangered;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    display: block;
+    margin: auto;
+    object-fit: cover;
+    object-position: absolute;
+    aspect-ratio: 30/19;
+    margin-bottom: -250px;
+  
+
+}
+.ask{
+    background-color:orangered;
+    color: white;
+    padding: 10px;
+    border-radius: 2000px;
+    margin-top: 10px   
+}
+.text{
+    width: 60%;
+    margin-left: 90px;
+    margin-bottom: 15px;
+    padding: 5px;
+}
+.texta{
+    width: 60%;
+    margin-left: 90px;
+    padding: 30px 0px;
+   
+}
+.name{
+    width: 60%;
+    margin-left: -90px;
+    
+}
+.phone{
+    width: 64%;
+  margin-left: -90px;
+    
+}
+.email{
+    width: 60%;
+    margin-left: -90px;
+}
+.ask{
+    width: 63%;
+    margin-left: -90px;
+    
+}
+.p{
+    text-align: justify;
+    font-weight: 800;
+margin-bottom: 123px;
+}
+.bt{
+    margin-left: 99px;
+padding: 11px;
+    border-radius: 8px;
+    display: inline-flex;
+    justify-content: space-evenly;
+}
+.dt{
+border-radius: 8px;
+margin-left: 118px;
+padding: 11px;
+}
+.dt:hover{
+    background-color: black;
+    color: orangered;
+    border: 2px solid orangered;
+    transition: all 0.5s ease-in-out;
+}
+.bt:hover{
+    background-color: black;
+    color: orangered;
+    border: 2px solid orangered;
+    transition: all 0.5s ease-in-out;
+}
+.Bt{
+    border-radius: 12px;
+    float: right;
+    margin-right: 765px;
+    margin-top: -59px;
+    padding: 8px;
+}
+.Bt:hover{
+    transition: all 0.5s ease-in-out;
+    background-color: black;
+    color: orangered;
+}
+
+.hello{
+    text-align: 1000px;
+}
+#submit{
+   padding:10px 40px ;
+    border-radius: 12px;
+    margin: 40px;
+    margin-left: -90px;
+    text-align: center;
+
+}
+#submit:hover{
+    background-color: black;
+    color: orangered;
+    transition: all 0.5s ease-in-out;
+}
+p.budy{
+    text-align: center;
+    text-shadow: rgb(7, 245, 225) 10px 10px 10px;
+  
+}
+.duty{
+    text-align: center;
+    font-size: 1.2em;
+    font-weight: 400;
+    color: white;
+   border: 16px  solid black;
+    border-radius: 35px;
+    border-width: 12px;
+  padding: 7px 3%;
+  margin: 65px ;
+  text-shadow: rgb(10, 235, 223) 10px 10px 10px;
+    background-color: orangered;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+ 
+}
+.Duty{
+    text-align: center;
+    font-weight: 200;
+    color: white;
+    font-size: larger;
+    
+}
+.container{
+    margin-left: 150px;
+    text-shadow: rgb(10, 235, 223) 10px 10px 10px;
+    margin-top: 89px;
+}
+.gt{
+    margin-left: 150px;
+    margin-top: 20px;
+    flex-direction: row;
+   
+}
+.car{
+    width: 400px;
+    margin-right: 500px;
+    mask-position:45px; 
+  ;
+}
+
+@media all  and (max-width: 1217px ) {
+    
+}
